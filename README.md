@@ -13,3 +13,13 @@ cada columna que tiene la tabla abierta.
 24/05/2023
 Hoy se ha añadido la funcionalidad del Botón Nuevo, que borra todo el texto que tuviesen las cajas de texto para poder crear una nueva fila de esa tabla más adelante al 
 pulsar el botón grabar
+
+
+30/05/2023
+Ya se han implementado todas estas funciones:
+-Busqueda en cualquier tabla que se tenga abierta en la pestaña Datos
+-Todos los botones (Nuevo,Grabar y Borrar) funcionando en cualquier tabla que tengamos abierta
+-Creación de los componentes de forma dinámica (Incluidos los que se crean en la última pestaña del tabcontrol, que van cambiando segun que tabla tengamos abierta)
+
+Además se ha comentado todo el proyecto para que sea mucho mas fácil identificar que hace cada función para cualquier persona que quiera ver el proyecto.
+En resumen se ha creado la versión 3.0 del proyecto de forma exitosa.
