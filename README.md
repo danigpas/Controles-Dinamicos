@@ -23,3 +23,9 @@ Ya se han implementado todas estas funciones:
 
 Además se ha comentado todo el proyecto para que sea mucho mas fácil identificar que hace cada función para cualquier persona que quiera ver el proyecto.
 En resumen se ha creado la versión 3.0 del proyecto de forma exitosa.
+
+
+02/06/2023
+Versión 4.0 -> Ya se ha cambiado el menu inicial que era una tabla a Botones individuales de cada tabla con sus respectivas fotos identificativas y nombre para cada tabla.
+Además se ha implementado el cambio de las cabeceras de todas las tablas (a su vez tambien de los labels de la pestaña datos) por su respectivo nombre en la tabla def_campos. Se ha cruzado el proyecto con las dos nuevas tablas de la base de datos def_tablas y def_campos.
+Se ha arreglado el método de busqueda para que respete el cambio de las cabeceras y los metodos de edición y navegación tambien se han corregido.
