@@ -29,3 +29,14 @@ En resumen se ha creado la versión 3.0 del proyecto de forma exitosa.
 Versión 4.0 -> Ya se ha cambiado el menu inicial que era una tabla a Botones individuales de cada tabla con sus respectivas fotos identificativas y nombre para cada tabla.
 Además se ha implementado el cambio de las cabeceras de todas las tablas (a su vez tambien de los labels de la pestaña datos) por su respectivo nombre en la tabla def_campos. Se ha cruzado el proyecto con las dos nuevas tablas de la base de datos def_tablas y def_campos.
 Se ha arreglado el método de busqueda para que respete el cambio de las cabeceras y los metodos de edición y navegación tambien se han corregido.
+
+
+06/06/2023
+Versión 4.1 -> Se han creado e implementado dos nuevas ventanas:
+  -Una inicial donde se deberá realizar un login que coincida con los datos de usuarios guardados en la nueva bbdd users_almacen,
+    recalcar que las contraseñas tanto en el programa como en la bbd se guardan y comprueban encriptadas en sha256. Además en esta ventana se ha añadido una ComboBox
+    donde se deberá seleccionar el nombre del empleado que está usando el programa para que luego se guarde y se muestre en la cabecera de la ventana Form1.
+  - También se ha creado otra ventana que se usa como pantalla de carga donde se han añadido una ProgressBar y varios labels donde se muestra texto de información y
+    el porcentaje de la barra de progreso.
+    
+    Además se ha limpiado todo el código comentado sobrante y se han comentado todas las cabeceras de los métodos para su correcta visión.
